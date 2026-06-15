@@ -7,5 +7,7 @@ class hellojava{
         int a = 10,b = 10;
         int c = a + b;
         System.out.println("Addition is "+ c);
+
+        System.out.println("Hello from SIESCOMS");
     }
 }
